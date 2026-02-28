@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ReliefGoodsTrackingDesign_NADAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81EE66D2-AADE-4BEF-8ED8-D9079DD0D545}|ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL.csproj|c:\\users\\user\\source\\repos\\reliefgoodstrackingdesign_nadal\\reliefgoodstrackingdesign_nadal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81EE66D2-AADE-4BEF-8ED8-D9079DD0D545}|ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL.csproj|solutionrelative:reliefgoodstrackingdesign_nadal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EE66D2-AADE-4BEF-8ED8-D9079DD0D545}|ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL.csproj|C:\\Users\\USER\\source\\repos\\ReliefGoodsTrackingDesign_NADAL\\reliefgoodstrackingdesign_nadal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EE66D2-AADE-4BEF-8ED8-D9079DD0D545}|ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL.csproj|solutionrelative:reliefgoodstrackingdesign_nadal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL\\Form1.cs",
+              "RelativeDocumentMoniker": "ReliefGoodsTrackingDesign_NADAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL\\Form1.cs [Design]",
+              "RelativeToolTip": "ReliefGoodsTrackingDesign_NADAL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:31:45.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL\\Form1.cs",
+              "RelativeDocumentMoniker": "ReliefGoodsTrackingDesign_NADAL\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReliefGoodsTrackingDesign_NADAL\\ReliefGoodsTrackingDesign_NADAL\\Form1.cs",
+              "RelativeToolTip": "ReliefGoodsTrackingDesign_NADAL\\Form1.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAxwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:32:24.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
